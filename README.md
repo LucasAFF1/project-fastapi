@@ -2,23 +2,25 @@
 
 
 ## USED TECHNOLOGIES 
-`
+
+```
 Python 3.12.3
 FastAPI
 SQLAlchemy
 PostgreSQL
 Alembic
 Uvicorn
-`
+
+```
 
 ## MAIN CHARACTERISTICS 
 
-`
+```
 Complete Users and Orders CRUD
 OAuth2/JWT Authentication
 Pydantic Validation
 Alembic Migration (Work in Progress)
-`
+```
 
 ## HOW TO USE 
 
@@ -58,11 +60,11 @@ uvicorn app.main:app --reload
 
 ## FUTURE IMPROVEMENTS 
 
-`
+```
 Automated testing
 Docker
 CI/CD
-`
+```
 
 ## 👨‍💻 Author 
 
